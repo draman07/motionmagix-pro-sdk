@@ -1,4 +1,4 @@
-# MotionMagix-Pro-SDK
+# MotionMagix Pro SDK
 This is MotionMagix SDK for MotionMagix Pro version.
 
 This SDK contains,
