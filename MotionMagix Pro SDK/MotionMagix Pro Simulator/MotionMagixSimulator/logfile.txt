@@ -10359,3 +10359,153 @@ Excepetion Source: mscorlib
 Exception Message: Could not find a part of the path 'C:\Users\Danish\Desktop\MM Pro SDK\MotionMagix Pro Simulator\MotionMagixSimulator\Silhouette'.
 Inner Exception: 
 
+
+06-05-2016 11:48:14
+Excepetion Source: mscorlib
+Exception Message: Could not find a part of the path 'E:\Danish\Magneto\MotionMagix Pro SDK\MotionMagix Pro SDK\MotionMagix Pro Simulator\MotionMagixSimulator\Silhouette'.
+Inner Exception: 
+
+
+06-05-2016 11:48:35
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
+
+06-05-2016 11:48:36
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:48:39
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
+
+06-05-2016 11:48:41
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:48:44
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
+
+06-05-2016 11:48:48
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
+
+06-05-2016 11:48:49
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:48:52
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
+
+06-05-2016 11:48:53
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:48:57
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
+
+06-05-2016 11:48:59
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:49:06
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
+
+06-05-2016 11:49:13
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:49:16
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
+
+06-05-2016 11:49:20
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:49:32
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:49:33
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:49:35
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:49:37
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:49:47
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:49:56
+Excepetion Source: mscorlib
+Exception Message: Could not find a part of the path 'E:\Danish\Magneto\MotionMagix Pro SDK\MotionMagix Pro SDK\MotionMagix Pro Simulator\MotionMagixSimulator\Silhouette'.
+Inner Exception: 
+
+
+06-05-2016 11:50:06
+Excepetion Source: mscorlib
+Exception Message: Collection was modified; enumeration operation may not execute.
+Inner Exception: 
+
+
+06-05-2016 11:50:08
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
+
+06-05-2016 11:50:12
+Excepetion Source: System
+Exception Message: An existing connection was forcibly closed by the remote host
+Inner Exception: 
+
